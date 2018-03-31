@@ -4,7 +4,7 @@ I made this theme because I wanted a theme that had less sharp contrast and look
 
 I hope you enjoy it. Improvements are welcome.
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
 
 ## Installation
 
